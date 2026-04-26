@@ -215,7 +215,7 @@ minclass = 4
 maxrepeat = 3
 
 # Maximum number of consecutive characters from the same class
-maxclassrepeat = 4
+maxclassrepeat = 6
 
 # Reject passwords containing the username
 usercheck = 1
